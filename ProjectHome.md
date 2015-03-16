@@ -1,0 +1,1 @@
+The script is aimed at copying files from one's personal collection to some external device, increasing playcount on the ones it suceeds.
